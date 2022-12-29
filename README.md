@@ -1,0 +1,1 @@
+# Terraform file to create folders structures in GCP.
